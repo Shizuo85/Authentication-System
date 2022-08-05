@@ -1,5 +1,5 @@
 # Authentication-System
- An authentication system, with the following features; Register, Login, Logout (using bcrypt to hash password), users, staff, manager, and  admin role, protected role based routes with JSON web token, password recovery
+ An authentication system, with the following features; Register, Login, Logout (using bcrypt to hash password), users, staff, manager, and  admin roles, protected role based routes with JSON web token, password recovery
 
 #Link to project demo:
 https://replit.com/@Shizuo85/Login-and-Signup-with-jwt#index.js
