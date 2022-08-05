@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Sign In Page</title>
+</head>
+<body>
+  <div id="container">
+    <header>
+      <h1 id="title">Forgotten your Password?</h1>
+      <p id="description">Follow these easy steps to reset your password</p>
+    </header>
+    <form id="survey-form" method="POST">
+      <div class="form-group">
+        <label for="email" id="email-label">Email</label>
+        <input type="email" name="email" id="email" class="form-control" placeholder="Enter your Account E-mail" required>
+      </div>
+      <div class="form-group">
+        <input type="submit" id="submit" Value="Send Reset Link">
+      </div>
+    </form>
+    <div class = "form-group">
+      <a href ="/api/v1/users/login" style="text-decoration-line: none;" ><button>Back</button></a>
+    </div>
+  </div>
+</body>
+</html>
