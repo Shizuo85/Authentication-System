@@ -39,7 +39,7 @@ The following endpoints are available on this server:
 The following endpoints are available on this server:
 - `/api/v1/users/sigup`:
 -Success: ![signupSuccess](https://user-images.githubusercontent.com/89656114/183018844-93610b57-6cad-414a-b8f3-8dc2399b68a1.PNG)
--Fail: ![signupFail](https://user-images.githubusercontent.com/89656114/183018891-67e020ac-a06c-4d08-ae45-d416efc14391.PNG)
+-Fail:![signupFail](https://user-images.githubusercontent.com/89656114/183018891-67e020ac-a06c-4d08-ae45-d416efc14391.PNG)
 
 - `/api/v1/users/login`:
 -Success: ![loginSuccess](https://user-images.githubusercontent.com/89656114/183018953-e521a990-b425-4cb6-b0ee-9d81954cfd9e.PNG)
