@@ -2,7 +2,7 @@
  An authentication system, with the following features; Register, Login, Logout (using bcrypt to hash password), users, staff, manager, and  admin roles, protected role based routes with JSON web token, password recovery
 
 #Link to project demo:
-https://replit.com/@Shizuo85/Login-and-Signup-with-jwt#index.js
+https://replit.com/@Shizuo85/Authentication-System#index.js
 
 ### How to run
 - Clone the repo and open the folder using vscode or any other ide of choice
@@ -67,5 +67,5 @@ The following endpoints are available on this server:
 
 
 ### Resources
-- For Nodemailer, use https://www.freecodecamp.org/news/use-nodemailer-to-send-emails-from-your-node-js-server/ to set up
+- For Nodemailer, use https://www.freecodecamp.org/news/use-nodemailer-to-send-emails-from-your-node-js-server/ or https://youtu.be/thAP7Fvrql4 to set up 
 - For mongoDb url use https://cloud.mongodb.com/v2/62decd80ebe1584627659bea#clusters to set up
